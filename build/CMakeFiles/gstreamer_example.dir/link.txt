@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gstreamer_example.dir/src/h265_rtsp.cpp.o  -o gstreamer_example  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstrtspserver-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstrtspserver-1.0 -lgstbase-1.0 

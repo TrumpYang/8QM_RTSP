@@ -1,0 +1,3 @@
+/home/sx/Desktop/8qm_video/build/CMakeFiles/edit_cache.dir
+/home/sx/Desktop/8qm_video/build/CMakeFiles/rebuild_cache.dir
+/home/sx/Desktop/8qm_video/build/CMakeFiles/gstreamer_example.dir
